@@ -9,6 +9,7 @@ description: 'This document does not stand alone. Rather, it is to be used with 
   which are simply called "Figures" in the following.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-996-sailing-yacht-design-13-734-fall-2003/82b76f4b848406668387069d182990a7_preldesignpar.pdf
 file_type: application/pdf
+parent_uid: 07f549fd-6b15-5ebc-5d7c-d6cf6d7c82c0
 resourcetype: Document
 title: preldesignpar.pdf
 uid: 82b76f4b-8484-0666-8387-069d182990a7
